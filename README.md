@@ -22,6 +22,3 @@ A simple console-based application built in Java to manage student records using
 - Scanner (Input Handling)
 - Console-based interface
 
----
-
-
